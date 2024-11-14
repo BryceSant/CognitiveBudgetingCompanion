@@ -1,0 +1,43 @@
+/* Table Styles */
+.table-container {
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #3DAC83;
+    
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 5px solid #ddd;
+    text-align: left;
+    background-color: #3DAC83;
+  }
+
+  .h2 {
+    color: white;
+    text-align: center;
+  }
+
+  .h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  
+  .no-expenses {
+    text-align: center;
+    font-style: italic;
+    color: #888;
+  }
+
+  .input {
+    align-items: center;
+  }
+  
